@@ -7,9 +7,19 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+#navbar-example2{
+    padding: 1rem;
+}
+
 .scrollspy-example {
     padding: 10rem 28rem ;
+    background-image: url(assets/Header_bg@2x.jpg);
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+   width: 100%;
 }
+
 
 .about-social {
     list-style: none;
@@ -18,7 +28,7 @@ body {
     padding: 0%;
 }
 .card {
-    width: 18rem;
+    width: 68rem;
     padding: 0.5rem 0.5rem;
     margin: 2.5rem;
 }
@@ -33,4 +43,11 @@ h3 {
 
 p {
     width: 70%;
+}
+
+.scrollspy-example-1{
+    padding: 35px;
+    width: 50%;
+
+
 }
