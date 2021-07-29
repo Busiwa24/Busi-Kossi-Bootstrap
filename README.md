@@ -1,13 +1,13 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Busi-Kossi-Bootstrap
 
-> This project is to create a mobile version skeleton using Figma template.
+> This project is to create a similar portfolio web page template of the figma template one using bootstrap. 
+
 
 ![screenshot](assets/Busi-Kossi.JPG)
 
-This project is to create a mobile version skeleton using Figma template
-It is a web page that contains three sections in the first section we have a header, the main page, the second section contains works page, about page, and the last section contains a contact form and CSS to style it. I added index.html file and style.css file, test.md file, and test.md file to .gitignore file.
+Using  the bootsrap nav bar, scrollspy, buttons and bootstrap form compenent. 
+
 
 ## Built With
 
@@ -15,12 +15,6 @@ It is a web page that contains three sections in the first section we have a hea
 - Css
 - Bootstrap
 
-##  Prerequisites
-
-- Text editor
-- Git
-- Html
-- Css
 
 ## Getting Started
 
@@ -32,6 +26,11 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 
 👤 **Busiwa**
+- GitHub: (https://github.com/Busiwa24)
+- Twitter: (https://twitter.com/busiwaliuma)
+- LinkedIn: (https://www.linkedin.com/in/busiwa-liuma-28385b80/
+
+
 
 👤 **Kossi-Stack**
 
@@ -49,6 +48,3 @@ Feel free to check the [issues page](https://github.com/Kossi-stack/Mobile_Versi
 
 Give a ⭐️ if you like this project!
 
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
