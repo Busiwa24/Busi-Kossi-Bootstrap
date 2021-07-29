@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.scrollspy-example {
+    padding: 10rem 28rem ;
+}
+
+.about-social {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    padding: 0%;
+}
+.card {
+    width: 18rem;
+    padding: 0.5rem 0.5rem;
+    margin: 2.5rem;
+}
+
+.btn {
+    margin: 1rem 0;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    width: 70%;
+}
