@@ -1,53 +1,54 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
-
 body {
-    padding: 0;
-    margin: 0;
-    font-family: 'Poppins', sans-serif;
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
 }
 
-#navbar-example2{
-    padding: 1rem;
+#navbar-example2 {
+  padding: 1rem;
 }
 
 .scrollspy-example {
-    padding: 10rem 28rem ;
-    background-image: url(assets/Header_bg@2x.jpg);
-    height: 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-   width: 100%;
+  padding: 10rem 28rem;
+  background-image: url(assets/Header_bg@2x.jpg);
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
 }
-
 
 .about-social {
-    list-style: none;
-    display: flex;
-    gap: 15px;
-    padding: 0%;
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  padding: 0%;
 }
+
+.lang-disp-list {
+  list-style: none;
+}
+
 .card {
-    width: 68rem;
-    padding: 0.5rem 0.5rem;
-    margin: 2.5rem;
+  width: 78rem;
+  padding: 2rem 0.5rem;
+  margin: 0 auto;
 }
 
 .btn {
-    margin: 1rem 0;
+  margin: 1rem 0;
 }
 
 h3 {
-    font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 p {
-    width: 70%;
+  width: 70%;
 }
 
-.scrollspy-example-1{
-    padding: 35px;
-    width: 50%;
-
-
+.scrollspy-example-1 {
+  padding: 35px;
+  width: 50%;
 }
